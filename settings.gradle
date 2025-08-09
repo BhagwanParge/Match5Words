@@ -1,9 +1,2 @@
-dependencies {
-    implementation('com.example:library-with-transitives:1.0.0') {
-        exclude group: 'com.unwanted', module: 'transitive-library'
-        // Or, to exclude by group only:
-        // exclude group: 'com.unwanted'
-        // Or, to exclude by module name only:
-        // exclude module: 'transitive-library'
-    }
-}
+rootProject.name = "EnglishWordTranslator"
+include ':app'
