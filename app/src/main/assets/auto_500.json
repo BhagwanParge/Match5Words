@@ -1,0 +1,2502 @@
+[
+  {
+    "english": "apple",
+    "hindi": "सेब",
+    "marathi": "सफरचंद"
+  },
+  {
+    "english": "book",
+    "hindi": "किताब",
+    "marathi": "पुस्तक"
+  },
+  {
+    "english": "chair",
+    "hindi": "कुर्सी",
+    "marathi": "खुर्ची"
+  },
+  {
+    "english": "water",
+    "hindi": "पानी",
+    "marathi": "पाणी"
+  },
+  {
+    "english": "house",
+    "hindi": "घर",
+    "marathi": "घर"
+  },
+  {
+    "english": "sun",
+    "hindi": "सूरज",
+    "marathi": "सूर्य"
+  },
+  {
+    "english": "moon",
+    "hindi": "चाँद",
+    "marathi": "चंद्र"
+  },
+  {
+    "english": "door",
+    "hindi": "दरवाज़ा",
+    "marathi": "दरवाजा"
+  },
+  {
+    "english": "road",
+    "hindi": "सड़क",
+    "marathi": "रस्ता"
+  },
+  {
+    "english": "flower",
+    "hindi": "फूल",
+    "marathi": "फूल"
+  },
+  {
+    "english": "school",
+    "hindi": "स्कूल",
+    "marathi": "शाळा"
+  },
+  {
+    "english": "tree",
+    "hindi": "पेड़",
+    "marathi": "झाड"
+  },
+  {
+    "english": "bird",
+    "hindi": "पक्षी",
+    "marathi": "पक्षी"
+  },
+  {
+    "english": "milk",
+    "hindi": "दूध",
+    "marathi": "दुध"
+  },
+  {
+    "english": "friend",
+    "hindi": "मित्र",
+    "marathi": "मित्र"
+  },
+  {
+    "english": "car",
+    "hindi": "कार",
+    "marathi": "कार"
+  },
+  {
+    "english": "window",
+    "hindi": "खिड़की",
+    "marathi": "खिडकी"
+  },
+  {
+    "english": "table",
+    "hindi": "मेज",
+    "marathi": "टेबल"
+  },
+  {
+    "english": "pen",
+    "hindi": "कलम",
+    "marathi": "कलम"
+  },
+  {
+    "english": "clock",
+    "hindi": "घड़ी",
+    "marathi": "घड्याळ"
+  },
+  {
+    "english": "phone",
+    "hindi": "फ़ोन",
+    "marathi": "फोन"
+  },
+  {
+    "english": "food",
+    "hindi": "खाना",
+    "marathi": "अन्न"
+  },
+  {
+    "english": "city",
+    "hindi": "शहर",
+    "marathi": "शहर"
+  },
+  {
+    "english": "river",
+    "hindi": "नदी",
+    "marathi": "नदी"
+  },
+  {
+    "english": "mountain",
+    "hindi": "पहाड़",
+    "marathi": "डोंगर"
+  },
+  {
+    "english": "garden",
+    "hindi": "बगीचा",
+    "marathi": "बाग"
+  },
+  {
+    "english": "computer",
+    "hindi": "कम्प्यूटर",
+    "marathi": "संगणक"
+  },
+  {
+    "english": "girl",
+    "hindi": "लड़की",
+    "marathi": "मुलगी"
+  },
+  {
+    "english": "boy",
+    "hindi": "लड़का",
+    "marathi": "मुलगा"
+  },
+  {
+    "english": "doctor",
+    "hindi": "डॉक्टर",
+    "marathi": "डॉक्टर"
+  },
+  {
+    "english": "teacher",
+    "hindi": "शिक्षक",
+    "marathi": "शिक्षक"
+  },
+  {
+    "english": "market",
+    "hindi": "बाज़ार",
+    "marathi": "बाजार"
+  },
+  {
+    "english": "shop",
+    "hindi": "दुकान",
+    "marathi": "दुकान"
+  },
+  {
+    "english": "music",
+    "hindi": "संगीत",
+    "marathi": "संगीत"
+  },
+  {
+    "english": "movie",
+    "hindi": "फ़िल्म",
+    "marathi": "चित्रपट"
+  },
+  {
+    "english": "game",
+    "hindi": "खेल",
+    "marathi": "खेळ"
+  },
+  {
+    "english": "street",
+    "hindi": "सड़क",
+    "marathi": "रस्ता"
+  },
+  {
+    "english": "park",
+    "hindi": "पार्क",
+    "marathi": "उद्यान"
+  },
+  {
+    "english": "library",
+    "hindi": "पुस्तकालय",
+    "marathi": "ग्रंथालय"
+  },
+  {
+    "english": "bed",
+    "hindi": "बिस्तर",
+    "marathi": "खाट"
+  },
+  {
+    "english": "shirt",
+    "hindi": "शर्ट",
+    "marathi": "शर्ट"
+  },
+  {
+    "english": "pants",
+    "hindi": "पैंट",
+    "marathi": "पॅन्ट"
+  },
+  {
+    "english": "shoe",
+    "hindi": "जूता",
+    "marathi": "जूता"
+  },
+  {
+    "english": "glass",
+    "hindi": "गिलास",
+    "marathi": "काचेचे"
+  },
+  {
+    "english": "bottle",
+    "hindi": "बोतल",
+    "marathi": "बॉटल"
+  },
+  {
+    "english": "paper",
+    "hindi": "कागज़",
+    "marathi": "कागद"
+  },
+  {
+    "english": "cup",
+    "hindi": "कप्प",
+    "marathi": "कप"
+  },
+  {
+    "english": "egg",
+    "hindi": "अंडा",
+    "marathi": "अंडी"
+  },
+  {
+    "english": "bread",
+    "hindi": "रोटी",
+    "marathi": "पोळी"
+  },
+  {
+    "english": "cheese",
+    "hindi": "पनीर",
+    "marathi": "पनीर"
+  },
+  {
+    "english": "apple_0",
+    "hindi": "apple_0_hi",
+    "marathi": "apple_0_mr"
+  },
+  {
+    "english": "tree_1",
+    "hindi": "tree_1_hi",
+    "marathi": "tree_1_mr"
+  },
+  {
+    "english": "apple2",
+    "hindi": "apple2_hi",
+    "marathi": "apple2_mr"
+  },
+  {
+    "english": "window3",
+    "hindi": "window3_hi",
+    "marathi": "window3_mr"
+  },
+  {
+    "english": "door4",
+    "hindi": "door4_hi",
+    "marathi": "door4_mr"
+  },
+  {
+    "english": "house5",
+    "hindi": "house5_hi",
+    "marathi": "house5_mr"
+  },
+  {
+    "english": "sun_6",
+    "hindi": "sun_6_hi",
+    "marathi": "sun_6_mr"
+  },
+  {
+    "english": "phone_7",
+    "hindi": "phone_7_hi",
+    "marathi": "phone_7_mr"
+  },
+  {
+    "english": "tree_8",
+    "hindi": "tree_8_hi",
+    "marathi": "tree_8_mr"
+  },
+  {
+    "english": "pen9",
+    "hindi": "pen9_hi",
+    "marathi": "pen9_mr"
+  },
+  {
+    "english": "doctor_10",
+    "hindi": "doctor_10_hi",
+    "marathi": "doctor_10_mr"
+  },
+  {
+    "english": "market_11",
+    "hindi": "market_11_hi",
+    "marathi": "market_11_mr"
+  },
+  {
+    "english": "street12",
+    "hindi": "street12_hi",
+    "marathi": "street12_mr"
+  },
+  {
+    "english": "school13",
+    "hindi": "school13_hi",
+    "marathi": "school13_mr"
+  },
+  {
+    "english": "paper_14",
+    "hindi": "paper_14_hi",
+    "marathi": "paper_14_mr"
+  },
+  {
+    "english": "river15",
+    "hindi": "river15_hi",
+    "marathi": "river15_mr"
+  },
+  {
+    "english": "bread16",
+    "hindi": "bread16_hi",
+    "marathi": "bread16_mr"
+  },
+  {
+    "english": "road17",
+    "hindi": "road17_hi",
+    "marathi": "road17_mr"
+  },
+  {
+    "english": "river_18",
+    "hindi": "river_18_hi",
+    "marathi": "river_18_mr"
+  },
+  {
+    "english": "tree19",
+    "hindi": "tree19_hi",
+    "marathi": "tree19_mr"
+  },
+  {
+    "english": "teacher_20",
+    "hindi": "teacher_20_hi",
+    "marathi": "teacher_20_mr"
+  },
+  {
+    "english": "doctor_21",
+    "hindi": "doctor_21_hi",
+    "marathi": "doctor_21_mr"
+  },
+  {
+    "english": "book_22",
+    "hindi": "book_22_hi",
+    "marathi": "book_22_mr"
+  },
+  {
+    "english": "sun_23",
+    "hindi": "sun_23_hi",
+    "marathi": "sun_23_mr"
+  },
+  {
+    "english": "boy_24",
+    "hindi": "boy_24_hi",
+    "marathi": "boy_24_mr"
+  },
+  {
+    "english": "water_25",
+    "hindi": "water_25_hi",
+    "marathi": "water_25_mr"
+  },
+  {
+    "english": "doctor_26",
+    "hindi": "doctor_26_hi",
+    "marathi": "doctor_26_mr"
+  },
+  {
+    "english": "door27",
+    "hindi": "door27_hi",
+    "marathi": "door27_mr"
+  },
+  {
+    "english": "pants_28",
+    "hindi": "pants_28_hi",
+    "marathi": "pants_28_mr"
+  },
+  {
+    "english": "music29",
+    "hindi": "music29_hi",
+    "marathi": "music29_mr"
+  },
+  {
+    "english": "movie30",
+    "hindi": "movie30_hi",
+    "marathi": "movie30_mr"
+  },
+  {
+    "english": "school_31",
+    "hindi": "school_31_hi",
+    "marathi": "school_31_mr"
+  },
+  {
+    "english": "paper_32",
+    "hindi": "paper_32_hi",
+    "marathi": "paper_32_mr"
+  },
+  {
+    "english": "paper_33",
+    "hindi": "paper_33_hi",
+    "marathi": "paper_33_mr"
+  },
+  {
+    "english": "market34",
+    "hindi": "market34_hi",
+    "marathi": "market34_mr"
+  },
+  {
+    "english": "window35",
+    "hindi": "window35_hi",
+    "marathi": "window35_mr"
+  },
+  {
+    "english": "milk_36",
+    "hindi": "milk_36_hi",
+    "marathi": "milk_36_mr"
+  },
+  {
+    "english": "apple37",
+    "hindi": "apple37_hi",
+    "marathi": "apple37_mr"
+  },
+  {
+    "english": "computer38",
+    "hindi": "computer38_hi",
+    "marathi": "computer38_mr"
+  },
+  {
+    "english": "paper_39",
+    "hindi": "paper_39_hi",
+    "marathi": "paper_39_mr"
+  },
+  {
+    "english": "music40",
+    "hindi": "music40_hi",
+    "marathi": "music40_mr"
+  },
+  {
+    "english": "moon41",
+    "hindi": "moon41_hi",
+    "marathi": "moon41_mr"
+  },
+  {
+    "english": "clock_42",
+    "hindi": "clock_42_hi",
+    "marathi": "clock_42_mr"
+  },
+  {
+    "english": "tree_43",
+    "hindi": "tree_43_hi",
+    "marathi": "tree_43_mr"
+  },
+  {
+    "english": "sun_44",
+    "hindi": "sun_44_hi",
+    "marathi": "sun_44_mr"
+  },
+  {
+    "english": "game45",
+    "hindi": "game45_hi",
+    "marathi": "game45_mr"
+  },
+  {
+    "english": "library46",
+    "hindi": "library46_hi",
+    "marathi": "library46_mr"
+  },
+  {
+    "english": "book_47",
+    "hindi": "book_47_hi",
+    "marathi": "book_47_mr"
+  },
+  {
+    "english": "river_48",
+    "hindi": "river_48_hi",
+    "marathi": "river_48_mr"
+  },
+  {
+    "english": "moon49",
+    "hindi": "moon49_hi",
+    "marathi": "moon49_mr"
+  },
+  {
+    "english": "water50",
+    "hindi": "water50_hi",
+    "marathi": "water50_mr"
+  },
+  {
+    "english": "table_51",
+    "hindi": "table_51_hi",
+    "marathi": "table_51_mr"
+  },
+  {
+    "english": "road52",
+    "hindi": "road52_hi",
+    "marathi": "road52_mr"
+  },
+  {
+    "english": "friend_53",
+    "hindi": "friend_53_hi",
+    "marathi": "friend_53_mr"
+  },
+  {
+    "english": "bread54",
+    "hindi": "bread54_hi",
+    "marathi": "bread54_mr"
+  },
+  {
+    "english": "park55",
+    "hindi": "park55_hi",
+    "marathi": "park55_mr"
+  },
+  {
+    "english": "house56",
+    "hindi": "house56_hi",
+    "marathi": "house56_mr"
+  },
+  {
+    "english": "cheese57",
+    "hindi": "cheese57_hi",
+    "marathi": "cheese57_mr"
+  },
+  {
+    "english": "street58",
+    "hindi": "street58_hi",
+    "marathi": "street58_mr"
+  },
+  {
+    "english": "mountain59",
+    "hindi": "mountain59_hi",
+    "marathi": "mountain59_mr"
+  },
+  {
+    "english": "food_60",
+    "hindi": "food_60_hi",
+    "marathi": "food_60_mr"
+  },
+  {
+    "english": "girl61",
+    "hindi": "girl61_hi",
+    "marathi": "girl61_mr"
+  },
+  {
+    "english": "market_62",
+    "hindi": "market_62_hi",
+    "marathi": "market_62_mr"
+  },
+  {
+    "english": "shirt63",
+    "hindi": "shirt63_hi",
+    "marathi": "shirt63_mr"
+  },
+  {
+    "english": "game_64",
+    "hindi": "game_64_hi",
+    "marathi": "game_64_mr"
+  },
+  {
+    "english": "city_65",
+    "hindi": "city_65_hi",
+    "marathi": "city_65_mr"
+  },
+  {
+    "english": "cheese_66",
+    "hindi": "cheese_66_hi",
+    "marathi": "cheese_66_mr"
+  },
+  {
+    "english": "teacher67",
+    "hindi": "teacher67_hi",
+    "marathi": "teacher67_mr"
+  },
+  {
+    "english": "paper_68",
+    "hindi": "paper_68_hi",
+    "marathi": "paper_68_mr"
+  },
+  {
+    "english": "food69",
+    "hindi": "food69_hi",
+    "marathi": "food69_mr"
+  },
+  {
+    "english": "friend70",
+    "hindi": "friend70_hi",
+    "marathi": "friend70_mr"
+  },
+  {
+    "english": "movie71",
+    "hindi": "movie71_hi",
+    "marathi": "movie71_mr"
+  },
+  {
+    "english": "movie72",
+    "hindi": "movie72_hi",
+    "marathi": "movie72_mr"
+  },
+  {
+    "english": "cheese73",
+    "hindi": "cheese73_hi",
+    "marathi": "cheese73_mr"
+  },
+  {
+    "english": "computer_74",
+    "hindi": "computer_74_hi",
+    "marathi": "computer_74_mr"
+  },
+  {
+    "english": "milk75",
+    "hindi": "milk75_hi",
+    "marathi": "milk75_mr"
+  },
+  {
+    "english": "mountain76",
+    "hindi": "mountain76_hi",
+    "marathi": "mountain76_mr"
+  },
+  {
+    "english": "teacher_77",
+    "hindi": "teacher_77_hi",
+    "marathi": "teacher_77_mr"
+  },
+  {
+    "english": "egg_78",
+    "hindi": "egg_78_hi",
+    "marathi": "egg_78_mr"
+  },
+  {
+    "english": "road_79",
+    "hindi": "road_79_hi",
+    "marathi": "road_79_mr"
+  },
+  {
+    "english": "bed80",
+    "hindi": "bed80_hi",
+    "marathi": "bed80_mr"
+  },
+  {
+    "english": "bed_81",
+    "hindi": "bed_81_hi",
+    "marathi": "bed_81_mr"
+  },
+  {
+    "english": "paper82",
+    "hindi": "paper82_hi",
+    "marathi": "paper82_mr"
+  },
+  {
+    "english": "bed_83",
+    "hindi": "bed_83_hi",
+    "marathi": "bed_83_mr"
+  },
+  {
+    "english": "street84",
+    "hindi": "street84_hi",
+    "marathi": "street84_mr"
+  },
+  {
+    "english": "market85",
+    "hindi": "market85_hi",
+    "marathi": "market85_mr"
+  },
+  {
+    "english": "milk86",
+    "hindi": "milk86_hi",
+    "marathi": "milk86_mr"
+  },
+  {
+    "english": "garden_87",
+    "hindi": "garden_87_hi",
+    "marathi": "garden_87_mr"
+  },
+  {
+    "english": "glass_88",
+    "hindi": "glass_88_hi",
+    "marathi": "glass_88_mr"
+  },
+  {
+    "english": "park_89",
+    "hindi": "park_89_hi",
+    "marathi": "park_89_mr"
+  },
+  {
+    "english": "tree_90",
+    "hindi": "tree_90_hi",
+    "marathi": "tree_90_mr"
+  },
+  {
+    "english": "car91",
+    "hindi": "car91_hi",
+    "marathi": "car91_mr"
+  },
+  {
+    "english": "bed_92",
+    "hindi": "bed_92_hi",
+    "marathi": "bed_92_mr"
+  },
+  {
+    "english": "cheese93",
+    "hindi": "cheese93_hi",
+    "marathi": "cheese93_mr"
+  },
+  {
+    "english": "apple94",
+    "hindi": "apple94_hi",
+    "marathi": "apple94_mr"
+  },
+  {
+    "english": "paper95",
+    "hindi": "paper95_hi",
+    "marathi": "paper95_mr"
+  },
+  {
+    "english": "pants96",
+    "hindi": "pants96_hi",
+    "marathi": "pants96_mr"
+  },
+  {
+    "english": "school97",
+    "hindi": "school97_hi",
+    "marathi": "school97_mr"
+  },
+  {
+    "english": "clock98",
+    "hindi": "clock98_hi",
+    "marathi": "clock98_mr"
+  },
+  {
+    "english": "car99",
+    "hindi": "car99_hi",
+    "marathi": "car99_mr"
+  },
+  {
+    "english": "shirt_100",
+    "hindi": "shirt_100_hi",
+    "marathi": "shirt_100_mr"
+  },
+  {
+    "english": "shop_101",
+    "hindi": "shop_101_hi",
+    "marathi": "shop_101_mr"
+  },
+  {
+    "english": "apple_102",
+    "hindi": "apple_102_hi",
+    "marathi": "apple_102_mr"
+  },
+  {
+    "english": "flower_103",
+    "hindi": "flower_103_hi",
+    "marathi": "flower_103_mr"
+  },
+  {
+    "english": "book104",
+    "hindi": "book104_hi",
+    "marathi": "book104_mr"
+  },
+  {
+    "english": "bird105",
+    "hindi": "bird105_hi",
+    "marathi": "bird105_mr"
+  },
+  {
+    "english": "market106",
+    "hindi": "market106_hi",
+    "marathi": "market106_mr"
+  },
+  {
+    "english": "doctor_107",
+    "hindi": "doctor_107_hi",
+    "marathi": "doctor_107_mr"
+  },
+  {
+    "english": "pants108",
+    "hindi": "pants108_hi",
+    "marathi": "pants108_mr"
+  },
+  {
+    "english": "house109",
+    "hindi": "house109_hi",
+    "marathi": "house109_mr"
+  },
+  {
+    "english": "school_110",
+    "hindi": "school_110_hi",
+    "marathi": "school_110_mr"
+  },
+  {
+    "english": "city111",
+    "hindi": "city111_hi",
+    "marathi": "city111_mr"
+  },
+  {
+    "english": "pants112",
+    "hindi": "pants112_hi",
+    "marathi": "pants112_mr"
+  },
+  {
+    "english": "computer113",
+    "hindi": "computer113_hi",
+    "marathi": "computer113_mr"
+  },
+  {
+    "english": "book114",
+    "hindi": "book114_hi",
+    "marathi": "book114_mr"
+  },
+  {
+    "english": "glass115",
+    "hindi": "glass115_hi",
+    "marathi": "glass115_mr"
+  },
+  {
+    "english": "food116",
+    "hindi": "food116_hi",
+    "marathi": "food116_mr"
+  },
+  {
+    "english": "bird_117",
+    "hindi": "bird_117_hi",
+    "marathi": "bird_117_mr"
+  },
+  {
+    "english": "shirt118",
+    "hindi": "shirt118_hi",
+    "marathi": "shirt118_mr"
+  },
+  {
+    "english": "doctor_119",
+    "hindi": "doctor_119_hi",
+    "marathi": "doctor_119_mr"
+  },
+  {
+    "english": "bottle120",
+    "hindi": "bottle120_hi",
+    "marathi": "bottle120_mr"
+  },
+  {
+    "english": "book121",
+    "hindi": "book121_hi",
+    "marathi": "book121_mr"
+  },
+  {
+    "english": "bottle122",
+    "hindi": "bottle122_hi",
+    "marathi": "bottle122_mr"
+  },
+  {
+    "english": "market123",
+    "hindi": "market123_hi",
+    "marathi": "market123_mr"
+  },
+  {
+    "english": "game124",
+    "hindi": "game124_hi",
+    "marathi": "game124_mr"
+  },
+  {
+    "english": "computer_125",
+    "hindi": "computer_125_hi",
+    "marathi": "computer_125_mr"
+  },
+  {
+    "english": "movie126",
+    "hindi": "movie126_hi",
+    "marathi": "movie126_mr"
+  },
+  {
+    "english": "shop127",
+    "hindi": "shop127_hi",
+    "marathi": "shop127_mr"
+  },
+  {
+    "english": "glass_128",
+    "hindi": "glass_128_hi",
+    "marathi": "glass_128_mr"
+  },
+  {
+    "english": "paper_129",
+    "hindi": "paper_129_hi",
+    "marathi": "paper_129_mr"
+  },
+  {
+    "english": "cheese130",
+    "hindi": "cheese130_hi",
+    "marathi": "cheese130_mr"
+  },
+  {
+    "english": "clock131",
+    "hindi": "clock131_hi",
+    "marathi": "clock131_mr"
+  },
+  {
+    "english": "flower_132",
+    "hindi": "flower_132_hi",
+    "marathi": "flower_132_mr"
+  },
+  {
+    "english": "cheese133",
+    "hindi": "cheese133_hi",
+    "marathi": "cheese133_mr"
+  },
+  {
+    "english": "milk_134",
+    "hindi": "milk_134_hi",
+    "marathi": "milk_134_mr"
+  },
+  {
+    "english": "egg_135",
+    "hindi": "egg_135_hi",
+    "marathi": "egg_135_mr"
+  },
+  {
+    "english": "city_136",
+    "hindi": "city_136_hi",
+    "marathi": "city_136_mr"
+  },
+  {
+    "english": "shop_137",
+    "hindi": "shop_137_hi",
+    "marathi": "shop_137_mr"
+  },
+  {
+    "english": "chair_138",
+    "hindi": "chair_138_hi",
+    "marathi": "chair_138_mr"
+  },
+  {
+    "english": "phone_139",
+    "hindi": "phone_139_hi",
+    "marathi": "phone_139_mr"
+  },
+  {
+    "english": "car140",
+    "hindi": "car140_hi",
+    "marathi": "car140_mr"
+  },
+  {
+    "english": "table141",
+    "hindi": "table141_hi",
+    "marathi": "table141_mr"
+  },
+  {
+    "english": "doctor_142",
+    "hindi": "doctor_142_hi",
+    "marathi": "doctor_142_mr"
+  },
+  {
+    "english": "teacher_143",
+    "hindi": "teacher_143_hi",
+    "marathi": "teacher_143_mr"
+  },
+  {
+    "english": "sun144",
+    "hindi": "sun144_hi",
+    "marathi": "sun144_mr"
+  },
+  {
+    "english": "city145",
+    "hindi": "city145_hi",
+    "marathi": "city145_mr"
+  },
+  {
+    "english": "house146",
+    "hindi": "house146_hi",
+    "marathi": "house146_mr"
+  },
+  {
+    "english": "bird_147",
+    "hindi": "bird_147_hi",
+    "marathi": "bird_147_mr"
+  },
+  {
+    "english": "bird_148",
+    "hindi": "bird_148_hi",
+    "marathi": "bird_148_mr"
+  },
+  {
+    "english": "garden_149",
+    "hindi": "garden_149_hi",
+    "marathi": "garden_149_mr"
+  },
+  {
+    "english": "city150",
+    "hindi": "city150_hi",
+    "marathi": "city150_mr"
+  },
+  {
+    "english": "street151",
+    "hindi": "street151_hi",
+    "marathi": "street151_mr"
+  },
+  {
+    "english": "egg_152",
+    "hindi": "egg_152_hi",
+    "marathi": "egg_152_mr"
+  },
+  {
+    "english": "tree153",
+    "hindi": "tree153_hi",
+    "marathi": "tree153_mr"
+  },
+  {
+    "english": "shop_154",
+    "hindi": "shop_154_hi",
+    "marathi": "shop_154_mr"
+  },
+  {
+    "english": "game155",
+    "hindi": "game155_hi",
+    "marathi": "game155_mr"
+  },
+  {
+    "english": "library_156",
+    "hindi": "library_156_hi",
+    "marathi": "library_156_mr"
+  },
+  {
+    "english": "river157",
+    "hindi": "river157_hi",
+    "marathi": "river157_mr"
+  },
+  {
+    "english": "game_158",
+    "hindi": "game_158_hi",
+    "marathi": "game_158_mr"
+  },
+  {
+    "english": "bottle159",
+    "hindi": "bottle159_hi",
+    "marathi": "bottle159_mr"
+  },
+  {
+    "english": "cheese_160",
+    "hindi": "cheese_160_hi",
+    "marathi": "cheese_160_mr"
+  },
+  {
+    "english": "milk161",
+    "hindi": "milk161_hi",
+    "marathi": "milk161_mr"
+  },
+  {
+    "english": "glass162",
+    "hindi": "glass162_hi",
+    "marathi": "glass162_mr"
+  },
+  {
+    "english": "car163",
+    "hindi": "car163_hi",
+    "marathi": "car163_mr"
+  },
+  {
+    "english": "bread_164",
+    "hindi": "bread_164_hi",
+    "marathi": "bread_164_mr"
+  },
+  {
+    "english": "apple165",
+    "hindi": "apple165_hi",
+    "marathi": "apple165_mr"
+  },
+  {
+    "english": "pants_166",
+    "hindi": "pants_166_hi",
+    "marathi": "pants_166_mr"
+  },
+  {
+    "english": "movie167",
+    "hindi": "movie167_hi",
+    "marathi": "movie167_mr"
+  },
+  {
+    "english": "book168",
+    "hindi": "book168_hi",
+    "marathi": "book168_mr"
+  },
+  {
+    "english": "moon169",
+    "hindi": "moon169_hi",
+    "marathi": "moon169_mr"
+  },
+  {
+    "english": "movie170",
+    "hindi": "movie170_hi",
+    "marathi": "movie170_mr"
+  },
+  {
+    "english": "food171",
+    "hindi": "food171_hi",
+    "marathi": "food171_mr"
+  },
+  {
+    "english": "street172",
+    "hindi": "street172_hi",
+    "marathi": "street172_mr"
+  },
+  {
+    "english": "apple173",
+    "hindi": "apple173_hi",
+    "marathi": "apple173_mr"
+  },
+  {
+    "english": "doctor174",
+    "hindi": "doctor174_hi",
+    "marathi": "doctor174_mr"
+  },
+  {
+    "english": "bottle_175",
+    "hindi": "bottle_175_hi",
+    "marathi": "bottle_175_mr"
+  },
+  {
+    "english": "milk_176",
+    "hindi": "milk_176_hi",
+    "marathi": "milk_176_mr"
+  },
+  {
+    "english": "game_177",
+    "hindi": "game_177_hi",
+    "marathi": "game_177_mr"
+  },
+  {
+    "english": "paper178",
+    "hindi": "paper178_hi",
+    "marathi": "paper178_mr"
+  },
+  {
+    "english": "movie179",
+    "hindi": "movie179_hi",
+    "marathi": "movie179_mr"
+  },
+  {
+    "english": "shirt180",
+    "hindi": "shirt180_hi",
+    "marathi": "shirt180_mr"
+  },
+  {
+    "english": "market_181",
+    "hindi": "market_181_hi",
+    "marathi": "market_181_mr"
+  },
+  {
+    "english": "bread_182",
+    "hindi": "bread_182_hi",
+    "marathi": "bread_182_mr"
+  },
+  {
+    "english": "market_183",
+    "hindi": "market_183_hi",
+    "marathi": "market_183_mr"
+  },
+  {
+    "english": "girl184",
+    "hindi": "girl184_hi",
+    "marathi": "girl184_mr"
+  },
+  {
+    "english": "flower_185",
+    "hindi": "flower_185_hi",
+    "marathi": "flower_185_mr"
+  },
+  {
+    "english": "bread_186",
+    "hindi": "bread_186_hi",
+    "marathi": "bread_186_mr"
+  },
+  {
+    "english": "house187",
+    "hindi": "house187_hi",
+    "marathi": "house187_mr"
+  },
+  {
+    "english": "park_188",
+    "hindi": "park_188_hi",
+    "marathi": "park_188_mr"
+  },
+  {
+    "english": "city_189",
+    "hindi": "city_189_hi",
+    "marathi": "city_189_mr"
+  },
+  {
+    "english": "window190",
+    "hindi": "window190_hi",
+    "marathi": "window190_mr"
+  },
+  {
+    "english": "bread_191",
+    "hindi": "bread_191_hi",
+    "marathi": "bread_191_mr"
+  },
+  {
+    "english": "library192",
+    "hindi": "library192_hi",
+    "marathi": "library192_mr"
+  },
+  {
+    "english": "teacher_193",
+    "hindi": "teacher_193_hi",
+    "marathi": "teacher_193_mr"
+  },
+  {
+    "english": "food194",
+    "hindi": "food194_hi",
+    "marathi": "food194_mr"
+  },
+  {
+    "english": "egg_195",
+    "hindi": "egg_195_hi",
+    "marathi": "egg_195_mr"
+  },
+  {
+    "english": "movie196",
+    "hindi": "movie196_hi",
+    "marathi": "movie196_mr"
+  },
+  {
+    "english": "bed_197",
+    "hindi": "bed_197_hi",
+    "marathi": "bed_197_mr"
+  },
+  {
+    "english": "clock198",
+    "hindi": "clock198_hi",
+    "marathi": "clock198_mr"
+  },
+  {
+    "english": "chair_199",
+    "hindi": "chair_199_hi",
+    "marathi": "chair_199_mr"
+  },
+  {
+    "english": "street_200",
+    "hindi": "street_200_hi",
+    "marathi": "street_200_mr"
+  },
+  {
+    "english": "library_201",
+    "hindi": "library_201_hi",
+    "marathi": "library_201_mr"
+  },
+  {
+    "english": "car_202",
+    "hindi": "car_202_hi",
+    "marathi": "car_202_mr"
+  },
+  {
+    "english": "sun203",
+    "hindi": "sun203_hi",
+    "marathi": "sun203_mr"
+  },
+  {
+    "english": "girl_204",
+    "hindi": "girl_204_hi",
+    "marathi": "girl_204_mr"
+  },
+  {
+    "english": "shoe_205",
+    "hindi": "shoe_205_hi",
+    "marathi": "shoe_205_mr"
+  },
+  {
+    "english": "car206",
+    "hindi": "car206_hi",
+    "marathi": "car206_mr"
+  },
+  {
+    "english": "paper_207",
+    "hindi": "paper_207_hi",
+    "marathi": "paper_207_mr"
+  },
+  {
+    "english": "road208",
+    "hindi": "road208_hi",
+    "marathi": "road208_mr"
+  },
+  {
+    "english": "book209",
+    "hindi": "book209_hi",
+    "marathi": "book209_mr"
+  },
+  {
+    "english": "bed210",
+    "hindi": "bed210_hi",
+    "marathi": "bed210_mr"
+  },
+  {
+    "english": "paper_211",
+    "hindi": "paper_211_hi",
+    "marathi": "paper_211_mr"
+  },
+  {
+    "english": "bed_212",
+    "hindi": "bed_212_hi",
+    "marathi": "bed_212_mr"
+  },
+  {
+    "english": "food213",
+    "hindi": "food213_hi",
+    "marathi": "food213_mr"
+  },
+  {
+    "english": "pants214",
+    "hindi": "pants214_hi",
+    "marathi": "pants214_mr"
+  },
+  {
+    "english": "table_215",
+    "hindi": "table_215_hi",
+    "marathi": "table_215_mr"
+  },
+  {
+    "english": "milk_216",
+    "hindi": "milk_216_hi",
+    "marathi": "milk_216_mr"
+  },
+  {
+    "english": "school217",
+    "hindi": "school217_hi",
+    "marathi": "school217_mr"
+  },
+  {
+    "english": "chair218",
+    "hindi": "chair218_hi",
+    "marathi": "chair218_mr"
+  },
+  {
+    "english": "clock219",
+    "hindi": "clock219_hi",
+    "marathi": "clock219_mr"
+  },
+  {
+    "english": "city220",
+    "hindi": "city220_hi",
+    "marathi": "city220_mr"
+  },
+  {
+    "english": "milk221",
+    "hindi": "milk221_hi",
+    "marathi": "milk221_mr"
+  },
+  {
+    "english": "tree222",
+    "hindi": "tree222_hi",
+    "marathi": "tree222_mr"
+  },
+  {
+    "english": "computer223",
+    "hindi": "computer223_hi",
+    "marathi": "computer223_mr"
+  },
+  {
+    "english": "garden_224",
+    "hindi": "garden_224_hi",
+    "marathi": "garden_224_mr"
+  },
+  {
+    "english": "door_225",
+    "hindi": "door_225_hi",
+    "marathi": "door_225_mr"
+  },
+  {
+    "english": "road_226",
+    "hindi": "road_226_hi",
+    "marathi": "road_226_mr"
+  },
+  {
+    "english": "river_227",
+    "hindi": "river_227_hi",
+    "marathi": "river_227_mr"
+  },
+  {
+    "english": "bread_228",
+    "hindi": "bread_228_hi",
+    "marathi": "bread_228_mr"
+  },
+  {
+    "english": "book229",
+    "hindi": "book229_hi",
+    "marathi": "book229_mr"
+  },
+  {
+    "english": "music230",
+    "hindi": "music230_hi",
+    "marathi": "music230_mr"
+  },
+  {
+    "english": "book231",
+    "hindi": "book231_hi",
+    "marathi": "book231_mr"
+  },
+  {
+    "english": "game_232",
+    "hindi": "game_232_hi",
+    "marathi": "game_232_mr"
+  },
+  {
+    "english": "shirt_233",
+    "hindi": "shirt_233_hi",
+    "marathi": "shirt_233_mr"
+  },
+  {
+    "english": "teacher234",
+    "hindi": "teacher234_hi",
+    "marathi": "teacher234_mr"
+  },
+  {
+    "english": "bottle235",
+    "hindi": "bottle235_hi",
+    "marathi": "bottle235_mr"
+  },
+  {
+    "english": "table_236",
+    "hindi": "table_236_hi",
+    "marathi": "table_236_mr"
+  },
+  {
+    "english": "book237",
+    "hindi": "book237_hi",
+    "marathi": "book237_mr"
+  },
+  {
+    "english": "game238",
+    "hindi": "game238_hi",
+    "marathi": "game238_mr"
+  },
+  {
+    "english": "book239",
+    "hindi": "book239_hi",
+    "marathi": "book239_mr"
+  },
+  {
+    "english": "game_240",
+    "hindi": "game_240_hi",
+    "marathi": "game_240_mr"
+  },
+  {
+    "english": "chair_241",
+    "hindi": "chair_241_hi",
+    "marathi": "chair_241_mr"
+  },
+  {
+    "english": "friend242",
+    "hindi": "friend242_hi",
+    "marathi": "friend242_mr"
+  },
+  {
+    "english": "milk243",
+    "hindi": "milk243_hi",
+    "marathi": "milk243_mr"
+  },
+  {
+    "english": "game_244",
+    "hindi": "game_244_hi",
+    "marathi": "game_244_mr"
+  },
+  {
+    "english": "sun_245",
+    "hindi": "sun_245_hi",
+    "marathi": "sun_245_mr"
+  },
+  {
+    "english": "flower_246",
+    "hindi": "flower_246_hi",
+    "marathi": "flower_246_mr"
+  },
+  {
+    "english": "girl_247",
+    "hindi": "girl_247_hi",
+    "marathi": "girl_247_mr"
+  },
+  {
+    "english": "clock248",
+    "hindi": "clock248_hi",
+    "marathi": "clock248_mr"
+  },
+  {
+    "english": "book249",
+    "hindi": "book249_hi",
+    "marathi": "book249_mr"
+  },
+  {
+    "english": "car250",
+    "hindi": "car250_hi",
+    "marathi": "car250_mr"
+  },
+  {
+    "english": "car251",
+    "hindi": "car251_hi",
+    "marathi": "car251_mr"
+  },
+  {
+    "english": "house252",
+    "hindi": "house252_hi",
+    "marathi": "house252_mr"
+  },
+  {
+    "english": "bottle253",
+    "hindi": "bottle253_hi",
+    "marathi": "bottle253_mr"
+  },
+  {
+    "english": "school254",
+    "hindi": "school254_hi",
+    "marathi": "school254_mr"
+  },
+  {
+    "english": "cheese255",
+    "hindi": "cheese255_hi",
+    "marathi": "cheese255_mr"
+  },
+  {
+    "english": "food256",
+    "hindi": "food256_hi",
+    "marathi": "food256_mr"
+  },
+  {
+    "english": "door_257",
+    "hindi": "door_257_hi",
+    "marathi": "door_257_mr"
+  },
+  {
+    "english": "door258",
+    "hindi": "door258_hi",
+    "marathi": "door258_mr"
+  },
+  {
+    "english": "bottle_259",
+    "hindi": "bottle_259_hi",
+    "marathi": "bottle_259_mr"
+  },
+  {
+    "english": "bed260",
+    "hindi": "bed260_hi",
+    "marathi": "bed260_mr"
+  },
+  {
+    "english": "road261",
+    "hindi": "road261_hi",
+    "marathi": "road261_mr"
+  },
+  {
+    "english": "milk262",
+    "hindi": "milk262_hi",
+    "marathi": "milk262_mr"
+  },
+  {
+    "english": "cheese263",
+    "hindi": "cheese263_hi",
+    "marathi": "cheese263_mr"
+  },
+  {
+    "english": "paper_264",
+    "hindi": "paper_264_hi",
+    "marathi": "paper_264_mr"
+  },
+  {
+    "english": "city265",
+    "hindi": "city265_hi",
+    "marathi": "city265_mr"
+  },
+  {
+    "english": "bird266",
+    "hindi": "bird266_hi",
+    "marathi": "bird266_mr"
+  },
+  {
+    "english": "friend_267",
+    "hindi": "friend_267_hi",
+    "marathi": "friend_267_mr"
+  },
+  {
+    "english": "table_268",
+    "hindi": "table_268_hi",
+    "marathi": "table_268_mr"
+  },
+  {
+    "english": "apple269",
+    "hindi": "apple269_hi",
+    "marathi": "apple269_mr"
+  },
+  {
+    "english": "paper270",
+    "hindi": "paper270_hi",
+    "marathi": "paper270_mr"
+  },
+  {
+    "english": "girl271",
+    "hindi": "girl271_hi",
+    "marathi": "girl271_mr"
+  },
+  {
+    "english": "house_272",
+    "hindi": "house_272_hi",
+    "marathi": "house_272_mr"
+  },
+  {
+    "english": "food273",
+    "hindi": "food273_hi",
+    "marathi": "food273_mr"
+  },
+  {
+    "english": "flower274",
+    "hindi": "flower274_hi",
+    "marathi": "flower274_mr"
+  },
+  {
+    "english": "water_275",
+    "hindi": "water_275_hi",
+    "marathi": "water_275_mr"
+  },
+  {
+    "english": "book276",
+    "hindi": "book276_hi",
+    "marathi": "book276_mr"
+  },
+  {
+    "english": "street277",
+    "hindi": "street277_hi",
+    "marathi": "street277_mr"
+  },
+  {
+    "english": "doctor278",
+    "hindi": "doctor278_hi",
+    "marathi": "doctor278_mr"
+  },
+  {
+    "english": "phone_279",
+    "hindi": "phone_279_hi",
+    "marathi": "phone_279_mr"
+  },
+  {
+    "english": "door280",
+    "hindi": "door280_hi",
+    "marathi": "door280_mr"
+  },
+  {
+    "english": "game281",
+    "hindi": "game281_hi",
+    "marathi": "game281_mr"
+  },
+  {
+    "english": "pen_282",
+    "hindi": "pen_282_hi",
+    "marathi": "pen_282_mr"
+  },
+  {
+    "english": "bread_283",
+    "hindi": "bread_283_hi",
+    "marathi": "bread_283_mr"
+  },
+  {
+    "english": "egg284",
+    "hindi": "egg284_hi",
+    "marathi": "egg284_mr"
+  },
+  {
+    "english": "park285",
+    "hindi": "park285_hi",
+    "marathi": "park285_mr"
+  },
+  {
+    "english": "moon286",
+    "hindi": "moon286_hi",
+    "marathi": "moon286_mr"
+  },
+  {
+    "english": "park_287",
+    "hindi": "park_287_hi",
+    "marathi": "park_287_mr"
+  },
+  {
+    "english": "water288",
+    "hindi": "water288_hi",
+    "marathi": "water288_mr"
+  },
+  {
+    "english": "milk289",
+    "hindi": "milk289_hi",
+    "marathi": "milk289_mr"
+  },
+  {
+    "english": "market_290",
+    "hindi": "market_290_hi",
+    "marathi": "market_290_mr"
+  },
+  {
+    "english": "market291",
+    "hindi": "market291_hi",
+    "marathi": "market291_mr"
+  },
+  {
+    "english": "bread_292",
+    "hindi": "bread_292_hi",
+    "marathi": "bread_292_mr"
+  },
+  {
+    "english": "glass293",
+    "hindi": "glass293_hi",
+    "marathi": "glass293_mr"
+  },
+  {
+    "english": "apple_294",
+    "hindi": "apple_294_hi",
+    "marathi": "apple_294_mr"
+  },
+  {
+    "english": "shoe295",
+    "hindi": "shoe295_hi",
+    "marathi": "shoe295_mr"
+  },
+  {
+    "english": "mountain296",
+    "hindi": "mountain296_hi",
+    "marathi": "mountain296_mr"
+  },
+  {
+    "english": "market_297",
+    "hindi": "market_297_hi",
+    "marathi": "market_297_mr"
+  },
+  {
+    "english": "door298",
+    "hindi": "door298_hi",
+    "marathi": "door298_mr"
+  },
+  {
+    "english": "shirt_299",
+    "hindi": "shirt_299_hi",
+    "marathi": "shirt_299_mr"
+  },
+  {
+    "english": "apple_300",
+    "hindi": "apple_300_hi",
+    "marathi": "apple_300_mr"
+  },
+  {
+    "english": "library_301",
+    "hindi": "library_301_hi",
+    "marathi": "library_301_mr"
+  },
+  {
+    "english": "tree302",
+    "hindi": "tree302_hi",
+    "marathi": "tree302_mr"
+  },
+  {
+    "english": "boy_303",
+    "hindi": "boy_303_hi",
+    "marathi": "boy_303_mr"
+  },
+  {
+    "english": "city_304",
+    "hindi": "city_304_hi",
+    "marathi": "city_304_mr"
+  },
+  {
+    "english": "milk305",
+    "hindi": "milk305_hi",
+    "marathi": "milk305_mr"
+  },
+  {
+    "english": "pants_306",
+    "hindi": "pants_306_hi",
+    "marathi": "pants_306_mr"
+  },
+  {
+    "english": "bed_307",
+    "hindi": "bed_307_hi",
+    "marathi": "bed_307_mr"
+  },
+  {
+    "english": "table308",
+    "hindi": "table308_hi",
+    "marathi": "table308_mr"
+  },
+  {
+    "english": "bread_309",
+    "hindi": "bread_309_hi",
+    "marathi": "bread_309_mr"
+  },
+  {
+    "english": "shop310",
+    "hindi": "shop310_hi",
+    "marathi": "shop310_mr"
+  },
+  {
+    "english": "movie_311",
+    "hindi": "movie_311_hi",
+    "marathi": "movie_311_mr"
+  },
+  {
+    "english": "city312",
+    "hindi": "city312_hi",
+    "marathi": "city312_mr"
+  },
+  {
+    "english": "shoe_313",
+    "hindi": "shoe_313_hi",
+    "marathi": "shoe_313_mr"
+  },
+  {
+    "english": "glass314",
+    "hindi": "glass314_hi",
+    "marathi": "glass314_mr"
+  },
+  {
+    "english": "bread315",
+    "hindi": "bread315_hi",
+    "marathi": "bread315_mr"
+  },
+  {
+    "english": "shoe_316",
+    "hindi": "shoe_316_hi",
+    "marathi": "shoe_316_mr"
+  },
+  {
+    "english": "book317",
+    "hindi": "book317_hi",
+    "marathi": "book317_mr"
+  },
+  {
+    "english": "computer_318",
+    "hindi": "computer_318_hi",
+    "marathi": "computer_318_mr"
+  },
+  {
+    "english": "computer319",
+    "hindi": "computer319_hi",
+    "marathi": "computer319_mr"
+  },
+  {
+    "english": "computer_320",
+    "hindi": "computer_320_hi",
+    "marathi": "computer_320_mr"
+  },
+  {
+    "english": "park_321",
+    "hindi": "park_321_hi",
+    "marathi": "park_321_mr"
+  },
+  {
+    "english": "garden322",
+    "hindi": "garden322_hi",
+    "marathi": "garden322_mr"
+  },
+  {
+    "english": "clock323",
+    "hindi": "clock323_hi",
+    "marathi": "clock323_mr"
+  },
+  {
+    "english": "food324",
+    "hindi": "food324_hi",
+    "marathi": "food324_mr"
+  },
+  {
+    "english": "river_325",
+    "hindi": "river_325_hi",
+    "marathi": "river_325_mr"
+  },
+  {
+    "english": "teacher_326",
+    "hindi": "teacher_326_hi",
+    "marathi": "teacher_326_mr"
+  },
+  {
+    "english": "shoe_327",
+    "hindi": "shoe_327_hi",
+    "marathi": "shoe_327_mr"
+  },
+  {
+    "english": "pen_328",
+    "hindi": "pen_328_hi",
+    "marathi": "pen_328_mr"
+  },
+  {
+    "english": "door_329",
+    "hindi": "door_329_hi",
+    "marathi": "door_329_mr"
+  },
+  {
+    "english": "clock_330",
+    "hindi": "clock_330_hi",
+    "marathi": "clock_330_mr"
+  },
+  {
+    "english": "house331",
+    "hindi": "house331_hi",
+    "marathi": "house331_mr"
+  },
+  {
+    "english": "moon332",
+    "hindi": "moon332_hi",
+    "marathi": "moon332_mr"
+  },
+  {
+    "english": "house_333",
+    "hindi": "house_333_hi",
+    "marathi": "house_333_mr"
+  },
+  {
+    "english": "boy_334",
+    "hindi": "boy_334_hi",
+    "marathi": "boy_334_mr"
+  },
+  {
+    "english": "mountain_335",
+    "hindi": "mountain_335_hi",
+    "marathi": "mountain_335_mr"
+  },
+  {
+    "english": "street336",
+    "hindi": "street336_hi",
+    "marathi": "street336_mr"
+  },
+  {
+    "english": "window337",
+    "hindi": "window337_hi",
+    "marathi": "window337_mr"
+  },
+  {
+    "english": "game338",
+    "hindi": "game338_hi",
+    "marathi": "game338_mr"
+  },
+  {
+    "english": "egg339",
+    "hindi": "egg339_hi",
+    "marathi": "egg339_mr"
+  },
+  {
+    "english": "table_340",
+    "hindi": "table_340_hi",
+    "marathi": "table_340_mr"
+  },
+  {
+    "english": "shirt341",
+    "hindi": "shirt341_hi",
+    "marathi": "shirt341_mr"
+  },
+  {
+    "english": "school342",
+    "hindi": "school342_hi",
+    "marathi": "school342_mr"
+  },
+  {
+    "english": "girl_343",
+    "hindi": "girl_343_hi",
+    "marathi": "girl_343_mr"
+  },
+  {
+    "english": "bed_344",
+    "hindi": "bed_344_hi",
+    "marathi": "bed_344_mr"
+  },
+  {
+    "english": "car_345",
+    "hindi": "car_345_hi",
+    "marathi": "car_345_mr"
+  },
+  {
+    "english": "door346",
+    "hindi": "door346_hi",
+    "marathi": "door346_mr"
+  },
+  {
+    "english": "pants_347",
+    "hindi": "pants_347_hi",
+    "marathi": "pants_347_mr"
+  },
+  {
+    "english": "music348",
+    "hindi": "music348_hi",
+    "marathi": "music348_mr"
+  },
+  {
+    "english": "table349",
+    "hindi": "table349_hi",
+    "marathi": "table349_mr"
+  },
+  {
+    "english": "movie350",
+    "hindi": "movie350_hi",
+    "marathi": "movie350_mr"
+  },
+  {
+    "english": "sun_351",
+    "hindi": "sun_351_hi",
+    "marathi": "sun_351_mr"
+  },
+  {
+    "english": "girl352",
+    "hindi": "girl352_hi",
+    "marathi": "girl352_mr"
+  },
+  {
+    "english": "cheese_353",
+    "hindi": "cheese_353_hi",
+    "marathi": "cheese_353_mr"
+  },
+  {
+    "english": "friend_354",
+    "hindi": "friend_354_hi",
+    "marathi": "friend_354_mr"
+  },
+  {
+    "english": "city355",
+    "hindi": "city355_hi",
+    "marathi": "city355_mr"
+  },
+  {
+    "english": "shoe356",
+    "hindi": "shoe356_hi",
+    "marathi": "shoe356_mr"
+  },
+  {
+    "english": "car357",
+    "hindi": "car357_hi",
+    "marathi": "car357_mr"
+  },
+  {
+    "english": "bed358",
+    "hindi": "bed358_hi",
+    "marathi": "bed358_mr"
+  },
+  {
+    "english": "shoe359",
+    "hindi": "shoe359_hi",
+    "marathi": "shoe359_mr"
+  },
+  {
+    "english": "glass_360",
+    "hindi": "glass_360_hi",
+    "marathi": "glass_360_mr"
+  },
+  {
+    "english": "paper361",
+    "hindi": "paper361_hi",
+    "marathi": "paper361_mr"
+  },
+  {
+    "english": "cheese362",
+    "hindi": "cheese362_hi",
+    "marathi": "cheese362_mr"
+  },
+  {
+    "english": "door363",
+    "hindi": "door363_hi",
+    "marathi": "door363_mr"
+  },
+  {
+    "english": "milk364",
+    "hindi": "milk364_hi",
+    "marathi": "milk364_mr"
+  },
+  {
+    "english": "market365",
+    "hindi": "market365_hi",
+    "marathi": "market365_mr"
+  },
+  {
+    "english": "garden366",
+    "hindi": "garden366_hi",
+    "marathi": "garden366_mr"
+  },
+  {
+    "english": "book_367",
+    "hindi": "book_367_hi",
+    "marathi": "book_367_mr"
+  },
+  {
+    "english": "garden_368",
+    "hindi": "garden_368_hi",
+    "marathi": "garden_368_mr"
+  },
+  {
+    "english": "bread369",
+    "hindi": "bread369_hi",
+    "marathi": "bread369_mr"
+  },
+  {
+    "english": "river370",
+    "hindi": "river370_hi",
+    "marathi": "river370_mr"
+  },
+  {
+    "english": "flower_371",
+    "hindi": "flower_371_hi",
+    "marathi": "flower_371_mr"
+  },
+  {
+    "english": "paper_372",
+    "hindi": "paper_372_hi",
+    "marathi": "paper_372_mr"
+  },
+  {
+    "english": "bread373",
+    "hindi": "bread373_hi",
+    "marathi": "bread373_mr"
+  },
+  {
+    "english": "teacher_374",
+    "hindi": "teacher_374_hi",
+    "marathi": "teacher_374_mr"
+  },
+  {
+    "english": "egg375",
+    "hindi": "egg375_hi",
+    "marathi": "egg375_mr"
+  },
+  {
+    "english": "egg376",
+    "hindi": "egg376_hi",
+    "marathi": "egg376_mr"
+  },
+  {
+    "english": "milk_377",
+    "hindi": "milk_377_hi",
+    "marathi": "milk_377_mr"
+  },
+  {
+    "english": "bed378",
+    "hindi": "bed378_hi",
+    "marathi": "bed378_mr"
+  },
+  {
+    "english": "car_379",
+    "hindi": "car_379_hi",
+    "marathi": "car_379_mr"
+  },
+  {
+    "english": "table380",
+    "hindi": "table380_hi",
+    "marathi": "table380_mr"
+  },
+  {
+    "english": "music_381",
+    "hindi": "music_381_hi",
+    "marathi": "music_381_mr"
+  },
+  {
+    "english": "bird382",
+    "hindi": "bird382_hi",
+    "marathi": "bird382_mr"
+  },
+  {
+    "english": "school_383",
+    "hindi": "school_383_hi",
+    "marathi": "school_383_mr"
+  },
+  {
+    "english": "mountain_384",
+    "hindi": "mountain_384_hi",
+    "marathi": "mountain_384_mr"
+  },
+  {
+    "english": "paper_385",
+    "hindi": "paper_385_hi",
+    "marathi": "paper_385_mr"
+  },
+  {
+    "english": "friend386",
+    "hindi": "friend386_hi",
+    "marathi": "friend386_mr"
+  },
+  {
+    "english": "bird_387",
+    "hindi": "bird_387_hi",
+    "marathi": "bird_387_mr"
+  },
+  {
+    "english": "cup388",
+    "hindi": "cup388_hi",
+    "marathi": "cup388_mr"
+  },
+  {
+    "english": "tree389",
+    "hindi": "tree389_hi",
+    "marathi": "tree389_mr"
+  },
+  {
+    "english": "doctor_390",
+    "hindi": "doctor_390_hi",
+    "marathi": "doctor_390_mr"
+  },
+  {
+    "english": "clock_391",
+    "hindi": "clock_391_hi",
+    "marathi": "clock_391_mr"
+  },
+  {
+    "english": "bread392",
+    "hindi": "bread392_hi",
+    "marathi": "bread392_mr"
+  },
+  {
+    "english": "library_393",
+    "hindi": "library_393_hi",
+    "marathi": "library_393_mr"
+  },
+  {
+    "english": "door_394",
+    "hindi": "door_394_hi",
+    "marathi": "door_394_mr"
+  },
+  {
+    "english": "milk395",
+    "hindi": "milk395_hi",
+    "marathi": "milk395_mr"
+  },
+  {
+    "english": "doctor_396",
+    "hindi": "doctor_396_hi",
+    "marathi": "doctor_396_mr"
+  },
+  {
+    "english": "chair_397",
+    "hindi": "chair_397_hi",
+    "marathi": "chair_397_mr"
+  },
+  {
+    "english": "park_398",
+    "hindi": "park_398_hi",
+    "marathi": "park_398_mr"
+  },
+  {
+    "english": "flower_399",
+    "hindi": "flower_399_hi",
+    "marathi": "flower_399_mr"
+  },
+  {
+    "english": "water400",
+    "hindi": "water400_hi",
+    "marathi": "water400_mr"
+  },
+  {
+    "english": "flower401",
+    "hindi": "flower401_hi",
+    "marathi": "flower401_mr"
+  },
+  {
+    "english": "market_402",
+    "hindi": "market_402_hi",
+    "marathi": "market_402_mr"
+  },
+  {
+    "english": "movie403",
+    "hindi": "movie403_hi",
+    "marathi": "movie403_mr"
+  },
+  {
+    "english": "paper_404",
+    "hindi": "paper_404_hi",
+    "marathi": "paper_404_mr"
+  },
+  {
+    "english": "road405",
+    "hindi": "road405_hi",
+    "marathi": "road405_mr"
+  },
+  {
+    "english": "bed406",
+    "hindi": "bed406_hi",
+    "marathi": "bed406_mr"
+  },
+  {
+    "english": "school_407",
+    "hindi": "school_407_hi",
+    "marathi": "school_407_mr"
+  },
+  {
+    "english": "market408",
+    "hindi": "market408_hi",
+    "marathi": "market408_mr"
+  },
+  {
+    "english": "book_409",
+    "hindi": "book_409_hi",
+    "marathi": "book_409_mr"
+  },
+  {
+    "english": "milk410",
+    "hindi": "milk410_hi",
+    "marathi": "milk410_mr"
+  },
+  {
+    "english": "city_411",
+    "hindi": "city_411_hi",
+    "marathi": "city_411_mr"
+  },
+  {
+    "english": "door_412",
+    "hindi": "door_412_hi",
+    "marathi": "door_412_mr"
+  },
+  {
+    "english": "market413",
+    "hindi": "market413_hi",
+    "marathi": "market413_mr"
+  },
+  {
+    "english": "moon414",
+    "hindi": "moon414_hi",
+    "marathi": "moon414_mr"
+  },
+  {
+    "english": "chair415",
+    "hindi": "chair415_hi",
+    "marathi": "chair415_mr"
+  },
+  {
+    "english": "city416",
+    "hindi": "city416_hi",
+    "marathi": "city416_mr"
+  },
+  {
+    "english": "game417",
+    "hindi": "game417_hi",
+    "marathi": "game417_mr"
+  },
+  {
+    "english": "bed_418",
+    "hindi": "bed_418_hi",
+    "marathi": "bed_418_mr"
+  },
+  {
+    "english": "bread419",
+    "hindi": "bread419_hi",
+    "marathi": "bread419_mr"
+  },
+  {
+    "english": "river420",
+    "hindi": "river420_hi",
+    "marathi": "river420_mr"
+  },
+  {
+    "english": "movie421",
+    "hindi": "movie421_hi",
+    "marathi": "movie421_mr"
+  },
+  {
+    "english": "park_422",
+    "hindi": "park_422_hi",
+    "marathi": "park_422_mr"
+  },
+  {
+    "english": "pants423",
+    "hindi": "pants423_hi",
+    "marathi": "pants423_mr"
+  },
+  {
+    "english": "pants_424",
+    "hindi": "pants_424_hi",
+    "marathi": "pants_424_mr"
+  },
+  {
+    "english": "teacher425",
+    "hindi": "teacher425_hi",
+    "marathi": "teacher425_mr"
+  },
+  {
+    "english": "mountain426",
+    "hindi": "mountain426_hi",
+    "marathi": "mountain426_mr"
+  },
+  {
+    "english": "chair427",
+    "hindi": "chair427_hi",
+    "marathi": "chair427_mr"
+  },
+  {
+    "english": "table_428",
+    "hindi": "table_428_hi",
+    "marathi": "table_428_mr"
+  },
+  {
+    "english": "chair_429",
+    "hindi": "chair_429_hi",
+    "marathi": "chair_429_mr"
+  },
+  {
+    "english": "pants430",
+    "hindi": "pants430_hi",
+    "marathi": "pants430_mr"
+  },
+  {
+    "english": "egg431",
+    "hindi": "egg431_hi",
+    "marathi": "egg431_mr"
+  },
+  {
+    "english": "moon432",
+    "hindi": "moon432_hi",
+    "marathi": "moon432_mr"
+  },
+  {
+    "english": "bottle433",
+    "hindi": "bottle433_hi",
+    "marathi": "bottle433_mr"
+  },
+  {
+    "english": "shirt434",
+    "hindi": "shirt434_hi",
+    "marathi": "shirt434_mr"
+  },
+  {
+    "english": "music_435",
+    "hindi": "music_435_hi",
+    "marathi": "music_435_mr"
+  },
+  {
+    "english": "garden_436",
+    "hindi": "garden_436_hi",
+    "marathi": "garden_436_mr"
+  },
+  {
+    "english": "window437",
+    "hindi": "window437_hi",
+    "marathi": "window437_mr"
+  },
+  {
+    "english": "glass_438",
+    "hindi": "glass_438_hi",
+    "marathi": "glass_438_mr"
+  },
+  {
+    "english": "road_439",
+    "hindi": "road_439_hi",
+    "marathi": "road_439_mr"
+  },
+  {
+    "english": "flower_440",
+    "hindi": "flower_440_hi",
+    "marathi": "flower_440_mr"
+  },
+  {
+    "english": "paper441",
+    "hindi": "paper441_hi",
+    "marathi": "paper441_mr"
+  },
+  {
+    "english": "tree442",
+    "hindi": "tree442_hi",
+    "marathi": "tree442_mr"
+  },
+  {
+    "english": "road443",
+    "hindi": "road443_hi",
+    "marathi": "road443_mr"
+  },
+  {
+    "english": "food444",
+    "hindi": "food444_hi",
+    "marathi": "food444_mr"
+  },
+  {
+    "english": "road445",
+    "hindi": "road445_hi",
+    "marathi": "road445_mr"
+  },
+  {
+    "english": "shirt446",
+    "hindi": "shirt446_hi",
+    "marathi": "shirt446_mr"
+  },
+  {
+    "english": "house_447",
+    "hindi": "house_447_hi",
+    "marathi": "house_447_mr"
+  },
+  {
+    "english": "boy_448",
+    "hindi": "boy_448_hi",
+    "marathi": "boy_448_mr"
+  },
+  {
+    "english": "school449",
+    "hindi": "school449_hi",
+    "marathi": "school449_mr"
+  }
+]

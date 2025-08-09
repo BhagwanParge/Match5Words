@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:background="?android:attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1.2"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvEnglish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="English"
+            android:textStyle="bold"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/tvHindi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="हिंदी"
+            android:paddingTop="4dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvMarathi"
+        android:layout_width="0dp"
+        android:layout_weight="0.8"
+        android:layout_height="wrap_content"
+        android:text="मराठी"
+        android:paddingStart="12dp"/>
+
+    <ImageButton
+        android:id="@+id/btnCopy"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@android:drawable/ic_menu_save"
+        android:contentDescription="Copy"
+        android:background="?android:attr/selectableItemBackgroundBorderless"/>
+
+    <ImageButton
+        android:id="@+id/btnShare"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@android:drawable/ic_menu_share"
+        android:contentDescription="Share"
+        android:background="?android:attr/selectableItemBackgroundBorderless"/>
+
+    <ImageButton
+        android:id="@+id/btnFav"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@android:drawable/btn_star_big_off"
+        android:contentDescription="Favorite"
+        android:background="?android:attr/selectableItemBackgroundBorderless"/>
+</LinearLayout>
